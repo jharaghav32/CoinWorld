@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Deployed Link : [Deployed Link](https://coinworld25.netlify.app/)
+Hosted Live  Link : [CoinWorld](https://coinworld25.netlify.app/)
 
 ## Available Scripts
 

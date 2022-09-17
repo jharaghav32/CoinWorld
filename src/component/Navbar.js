@@ -29,7 +29,7 @@ const Navbar = () => {
     <div className="nav-container">
       <div className="logo-container">
         
-        <Typography.Title level={2} className="logo"><Link to="/">CoinWorld</Link></Typography.Title>
+        <Typography.Title level={2} className="logo coinworld" ><Link to='/'style={{color:'blue'}}>CoinWorld</Link></Typography.Title>
         <Button className="menu-control-container" onClick={() => setActiveMenu(!activeMenu)}><MenuOutlined /></Button>
       </div>
       {activeMenu && (
